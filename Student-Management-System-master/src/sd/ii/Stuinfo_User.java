@@ -31,7 +31,7 @@ import javax.swing.JTable;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
-import net.proteanit.sql.DbUtils;
+//import net.proteanit.sql.DbUtils;
 
 /**
  *
